@@ -13,3 +13,5 @@ Ios:
 Execute below commands in terminal:
   cd ios && pod repo update && cd ..
   react-native run-ios
+
+If you need any help please contact me avadh.ladani353@gmail.com
